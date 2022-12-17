@@ -1,7 +1,9 @@
 - 😎 Salutations, I’m @SLURRDEST
-- 👀 I’m interested in developing the highest quality, most efficient, universally accepted audio codec.
-- 🧠 I’m currently learning about logistics and teamwork.
-- 💞️ I’m looking to collaborate on quantum technology.
+- 👀 I’m interested in developing the highest quality, most efficient,
+universally accepted audio codec. my goal is to create or collaborate on a product that brings affordable state-of-the-art
+software and hardware to everyone.
+- 🧠 I’m currently learning about cloud computing.
+- 💞️ I’m looking to collaborate on quantum technology, cyber security, and biology.
 - 📫 How to reach me GODSFDID@GMAIL.COM 
 
 <!---
