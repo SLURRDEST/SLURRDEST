@@ -1,4 +1,4 @@
-- 😎 Salutations, I’m @SLURRDEST
+- I’m @SLURRDEST
 - 👀 I’m interested in developing the highest quality, affordable,
 universally accepted audio codec. my goal is to deliver a code that brings
 state-of-the-art audio to individuals who are curious about the perceptive 
